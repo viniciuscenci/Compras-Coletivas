@@ -1,0 +1,1 @@
+Base para sistema de compras coletivas.
